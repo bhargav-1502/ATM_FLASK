@@ -27,3 +27,6 @@ A Flask-based web application simulating ATM functionalities with MySQL integrat
 ```bash
 git clone https://github.com/your-username/smart-atm.git
 cd smart-atm
+
+2. Initialize database:
+mysql -u root -p < atm.sql
