@@ -24,11 +24,10 @@ A Flask-based web application simulating ATM functionalities with MySQL integrat
 
 ### Setup
 1. **Clone the repository**:
-```
 git clone https://github.com/your-username/smart-atm.git
-cd smart-atm```
+cd smart-atm
  
-2. **Set up the Database**:
+3. **Set up the Database**:
 
 
 
