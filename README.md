@@ -18,7 +18,7 @@ A Flask-based web application simulating ATM functionalities with MySQL integrat
 ## Installation Guide 📦
 
 ### Prerequisites
-- Python 3.8+
+- Python 3
 - MySQL Server
 - pip package manager
 
@@ -28,5 +28,4 @@ A Flask-based web application simulating ATM functionalities with MySQL integrat
 git clone https://github.com/your-username/smart-atm.git
 cd smart-atm
 
-2. Initialize database:
-mysql -u root -p < atm.sql
+
